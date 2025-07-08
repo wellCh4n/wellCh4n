@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wellCh4n
 - 👀 I’m interested in LLM Apps, BigData and DevOps
+- 🎓 Master’s degree in Agricultural Engineering and Information Technology, with research focused on 🏞️ Image Generation
 
 <!---
 wellCh4n/wellCh4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
