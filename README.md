@@ -8,6 +8,6 @@ wellCh4n/wellCh4n is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/wellch4n)](https://githubroast.dev/u/wellch4n)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/wellch4n)](https://ghfind.com/u/wellch4n?ref=badge)
 
 ![wellCh4n's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wellch4n&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile&hide_title=true&theme=transparent)
